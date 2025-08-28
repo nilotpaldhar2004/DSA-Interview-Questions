@@ -59,3 +59,16 @@ public class MergeSortedArray {
         sc.close();
     }
 }
+
+// This problem is a classic Two-Pointer + Array manipulation question.
+// It’s frequently asked in interviews for merging sorted data efficiently.
+
+// ✅ Amazon – common array merging problem.
+
+// ✅ Microsoft – merging sorted arrays & in-place modifications.
+
+// ✅ Google – variants of merge & two-pointer algorithms.
+
+// ✅ Facebook (Meta) – array merging & sorted structures.
+
+// ✅ Apple, Adobe, Uber, Oracle – sorting/merging related DSA.
