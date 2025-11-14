@@ -1,3 +1,4 @@
+//leetcode - 84 Largest Rectangle in Histogram
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -68,3 +69,4 @@ int main() {
 //Metric	         Complexity	Explanation
 //Time Complexity 	O(n)	Each bar is pushed and popped from the stack once
 //Space Complexity	O(n)	Extra space used for left, right, and stack
+
